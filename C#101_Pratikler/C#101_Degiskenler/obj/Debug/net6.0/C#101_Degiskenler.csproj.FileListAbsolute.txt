@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\C#101_Pratikler\C#101_Degiskenler\obj\Debug\net6.0\C#101_Degiskenler.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\C#101_Pratikler\C#101_Degiskenler\obj\Debug\net6.0\C#101_Degiskenler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\C#101_Pratikler\C#101_Degiskenler\obj\Debug\net6.0\C#101_Degiskenler.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\C#101_Pratikler\C#101_Degiskenler\obj\Debug\net6.0\C#101_Degiskenler.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\C#101_Pratikler\C#101_Degiskenler\obj\Debug\net6.0\C#101_Degiskenler.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\C#101_Pratikler\C#101_Degiskenler\bin\Debug\net6.0\C#101_Degiskenler.exe
+C:\Users\Lenovo\Desktop\C#101_Pratikler\C#101_Degiskenler\bin\Debug\net6.0\C#101_Degiskenler.deps.json
+C:\Users\Lenovo\Desktop\C#101_Pratikler\C#101_Degiskenler\bin\Debug\net6.0\C#101_Degiskenler.runtimeconfig.json
+C:\Users\Lenovo\Desktop\C#101_Pratikler\C#101_Degiskenler\bin\Debug\net6.0\C#101_Degiskenler.dll
+C:\Users\Lenovo\Desktop\C#101_Pratikler\C#101_Degiskenler\bin\Debug\net6.0\C#101_Degiskenler.pdb
+C:\Users\Lenovo\Desktop\C#101_Pratikler\C#101_Degiskenler\obj\Debug\net6.0\C#101_Degiskenler.dll
+C:\Users\Lenovo\Desktop\C#101_Pratikler\C#101_Degiskenler\obj\Debug\net6.0\refint\C#101_Degiskenler.dll
+C:\Users\Lenovo\Desktop\C#101_Pratikler\C#101_Degiskenler\obj\Debug\net6.0\C#101_Degiskenler.pdb
+C:\Users\Lenovo\Desktop\C#101_Pratikler\C#101_Degiskenler\obj\Debug\net6.0\C#101_Degiskenler.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\C#101_Pratikler\C#101_Degiskenler\obj\Debug\net6.0\ref\C#101_Degiskenler.dll
