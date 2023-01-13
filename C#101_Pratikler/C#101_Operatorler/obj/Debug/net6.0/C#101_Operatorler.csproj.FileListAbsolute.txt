@@ -1,0 +1,15 @@
+C:\Baslangic_Net_Core_Patikasi\C#101_Pratikler\C#101_Operatorler\bin\Debug\net6.0\C#101_Operatorler.exe
+C:\Baslangic_Net_Core_Patikasi\C#101_Pratikler\C#101_Operatorler\bin\Debug\net6.0\C#101_Operatorler.deps.json
+C:\Baslangic_Net_Core_Patikasi\C#101_Pratikler\C#101_Operatorler\bin\Debug\net6.0\C#101_Operatorler.runtimeconfig.json
+C:\Baslangic_Net_Core_Patikasi\C#101_Pratikler\C#101_Operatorler\bin\Debug\net6.0\C#101_Operatorler.dll
+C:\Baslangic_Net_Core_Patikasi\C#101_Pratikler\C#101_Operatorler\bin\Debug\net6.0\C#101_Operatorler.pdb
+C:\Baslangic_Net_Core_Patikasi\C#101_Pratikler\C#101_Operatorler\obj\Debug\net6.0\C#101_Operatorler.csproj.AssemblyReference.cache
+C:\Baslangic_Net_Core_Patikasi\C#101_Pratikler\C#101_Operatorler\obj\Debug\net6.0\C#101_Operatorler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Baslangic_Net_Core_Patikasi\C#101_Pratikler\C#101_Operatorler\obj\Debug\net6.0\C#101_Operatorler.AssemblyInfoInputs.cache
+C:\Baslangic_Net_Core_Patikasi\C#101_Pratikler\C#101_Operatorler\obj\Debug\net6.0\C#101_Operatorler.AssemblyInfo.cs
+C:\Baslangic_Net_Core_Patikasi\C#101_Pratikler\C#101_Operatorler\obj\Debug\net6.0\C#101_Operatorler.csproj.CoreCompileInputs.cache
+C:\Baslangic_Net_Core_Patikasi\C#101_Pratikler\C#101_Operatorler\obj\Debug\net6.0\C#101_Operatorler.dll
+C:\Baslangic_Net_Core_Patikasi\C#101_Pratikler\C#101_Operatorler\obj\Debug\net6.0\refint\C#101_Operatorler.dll
+C:\Baslangic_Net_Core_Patikasi\C#101_Pratikler\C#101_Operatorler\obj\Debug\net6.0\C#101_Operatorler.pdb
+C:\Baslangic_Net_Core_Patikasi\C#101_Pratikler\C#101_Operatorler\obj\Debug\net6.0\C#101_Operatorler.genruntimeconfig.cache
+C:\Baslangic_Net_Core_Patikasi\C#101_Pratikler\C#101_Operatorler\obj\Debug\net6.0\ref\C#101_Operatorler.dll
