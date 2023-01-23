@@ -1,0 +1,15 @@
+C:\Baslangic_Net_Core_Patikasi\C#101_Pratikler\C#101_Tip_Donusumleri\bin\Debug\net6.0\C#101_Tip_Donusumleri.exe
+C:\Baslangic_Net_Core_Patikasi\C#101_Pratikler\C#101_Tip_Donusumleri\bin\Debug\net6.0\C#101_Tip_Donusumleri.deps.json
+C:\Baslangic_Net_Core_Patikasi\C#101_Pratikler\C#101_Tip_Donusumleri\bin\Debug\net6.0\C#101_Tip_Donusumleri.runtimeconfig.json
+C:\Baslangic_Net_Core_Patikasi\C#101_Pratikler\C#101_Tip_Donusumleri\bin\Debug\net6.0\C#101_Tip_Donusumleri.dll
+C:\Baslangic_Net_Core_Patikasi\C#101_Pratikler\C#101_Tip_Donusumleri\bin\Debug\net6.0\C#101_Tip_Donusumleri.pdb
+C:\Baslangic_Net_Core_Patikasi\C#101_Pratikler\C#101_Tip_Donusumleri\obj\Debug\net6.0\C#101_Tip_Donusumleri.csproj.AssemblyReference.cache
+C:\Baslangic_Net_Core_Patikasi\C#101_Pratikler\C#101_Tip_Donusumleri\obj\Debug\net6.0\C#101_Tip_Donusumleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Baslangic_Net_Core_Patikasi\C#101_Pratikler\C#101_Tip_Donusumleri\obj\Debug\net6.0\C#101_Tip_Donusumleri.AssemblyInfoInputs.cache
+C:\Baslangic_Net_Core_Patikasi\C#101_Pratikler\C#101_Tip_Donusumleri\obj\Debug\net6.0\C#101_Tip_Donusumleri.AssemblyInfo.cs
+C:\Baslangic_Net_Core_Patikasi\C#101_Pratikler\C#101_Tip_Donusumleri\obj\Debug\net6.0\C#101_Tip_Donusumleri.csproj.CoreCompileInputs.cache
+C:\Baslangic_Net_Core_Patikasi\C#101_Pratikler\C#101_Tip_Donusumleri\obj\Debug\net6.0\C#101_Tip_Donusumleri.dll
+C:\Baslangic_Net_Core_Patikasi\C#101_Pratikler\C#101_Tip_Donusumleri\obj\Debug\net6.0\refint\C#101_Tip_Donusumleri.dll
+C:\Baslangic_Net_Core_Patikasi\C#101_Pratikler\C#101_Tip_Donusumleri\obj\Debug\net6.0\C#101_Tip_Donusumleri.pdb
+C:\Baslangic_Net_Core_Patikasi\C#101_Pratikler\C#101_Tip_Donusumleri\obj\Debug\net6.0\C#101_Tip_Donusumleri.genruntimeconfig.cache
+C:\Baslangic_Net_Core_Patikasi\C#101_Pratikler\C#101_Tip_Donusumleri\obj\Debug\net6.0\ref\C#101_Tip_Donusumleri.dll

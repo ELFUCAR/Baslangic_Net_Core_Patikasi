@@ -1,0 +1,15 @@
+C:\Baslangic_Net_Core_Patikasi\C#101_Pratikler\metotlar\bin\Debug\net6.0\metotlar.exe
+C:\Baslangic_Net_Core_Patikasi\C#101_Pratikler\metotlar\bin\Debug\net6.0\metotlar.deps.json
+C:\Baslangic_Net_Core_Patikasi\C#101_Pratikler\metotlar\bin\Debug\net6.0\metotlar.runtimeconfig.json
+C:\Baslangic_Net_Core_Patikasi\C#101_Pratikler\metotlar\bin\Debug\net6.0\metotlar.dll
+C:\Baslangic_Net_Core_Patikasi\C#101_Pratikler\metotlar\bin\Debug\net6.0\metotlar.pdb
+C:\Baslangic_Net_Core_Patikasi\C#101_Pratikler\metotlar\obj\Debug\net6.0\metotlar.csproj.AssemblyReference.cache
+C:\Baslangic_Net_Core_Patikasi\C#101_Pratikler\metotlar\obj\Debug\net6.0\metotlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Baslangic_Net_Core_Patikasi\C#101_Pratikler\metotlar\obj\Debug\net6.0\metotlar.AssemblyInfoInputs.cache
+C:\Baslangic_Net_Core_Patikasi\C#101_Pratikler\metotlar\obj\Debug\net6.0\metotlar.AssemblyInfo.cs
+C:\Baslangic_Net_Core_Patikasi\C#101_Pratikler\metotlar\obj\Debug\net6.0\metotlar.csproj.CoreCompileInputs.cache
+C:\Baslangic_Net_Core_Patikasi\C#101_Pratikler\metotlar\obj\Debug\net6.0\metotlar.dll
+C:\Baslangic_Net_Core_Patikasi\C#101_Pratikler\metotlar\obj\Debug\net6.0\refint\metotlar.dll
+C:\Baslangic_Net_Core_Patikasi\C#101_Pratikler\metotlar\obj\Debug\net6.0\metotlar.pdb
+C:\Baslangic_Net_Core_Patikasi\C#101_Pratikler\metotlar\obj\Debug\net6.0\metotlar.genruntimeconfig.cache
+C:\Baslangic_Net_Core_Patikasi\C#101_Pratikler\metotlar\obj\Debug\net6.0\ref\metotlar.dll

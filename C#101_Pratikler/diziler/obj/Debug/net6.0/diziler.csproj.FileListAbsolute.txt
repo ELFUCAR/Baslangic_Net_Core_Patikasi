@@ -1,0 +1,15 @@
+C:\Baslangic_Net_Core_Patikasi\C#101_Pratikler\diziler\obj\Debug\net6.0\diziler.csproj.AssemblyReference.cache
+C:\Baslangic_Net_Core_Patikasi\C#101_Pratikler\diziler\obj\Debug\net6.0\diziler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Baslangic_Net_Core_Patikasi\C#101_Pratikler\diziler\obj\Debug\net6.0\diziler.AssemblyInfoInputs.cache
+C:\Baslangic_Net_Core_Patikasi\C#101_Pratikler\diziler\obj\Debug\net6.0\diziler.AssemblyInfo.cs
+C:\Baslangic_Net_Core_Patikasi\C#101_Pratikler\diziler\obj\Debug\net6.0\diziler.csproj.CoreCompileInputs.cache
+C:\Baslangic_Net_Core_Patikasi\C#101_Pratikler\diziler\bin\Debug\net6.0\diziler.exe
+C:\Baslangic_Net_Core_Patikasi\C#101_Pratikler\diziler\bin\Debug\net6.0\diziler.deps.json
+C:\Baslangic_Net_Core_Patikasi\C#101_Pratikler\diziler\bin\Debug\net6.0\diziler.runtimeconfig.json
+C:\Baslangic_Net_Core_Patikasi\C#101_Pratikler\diziler\bin\Debug\net6.0\diziler.dll
+C:\Baslangic_Net_Core_Patikasi\C#101_Pratikler\diziler\bin\Debug\net6.0\diziler.pdb
+C:\Baslangic_Net_Core_Patikasi\C#101_Pratikler\diziler\obj\Debug\net6.0\diziler.dll
+C:\Baslangic_Net_Core_Patikasi\C#101_Pratikler\diziler\obj\Debug\net6.0\refint\diziler.dll
+C:\Baslangic_Net_Core_Patikasi\C#101_Pratikler\diziler\obj\Debug\net6.0\diziler.pdb
+C:\Baslangic_Net_Core_Patikasi\C#101_Pratikler\diziler\obj\Debug\net6.0\diziler.genruntimeconfig.cache
+C:\Baslangic_Net_Core_Patikasi\C#101_Pratikler\diziler\obj\Debug\net6.0\ref\diziler.dll

@@ -1,0 +1,15 @@
+C:\Baslangic_Net_Core_Patikasi\C#101_Calismalar\algoritma_sorulari\ucuncuSoru\bin\Debug\net6.0\ucuncuSoru.exe
+C:\Baslangic_Net_Core_Patikasi\C#101_Calismalar\algoritma_sorulari\ucuncuSoru\bin\Debug\net6.0\ucuncuSoru.deps.json
+C:\Baslangic_Net_Core_Patikasi\C#101_Calismalar\algoritma_sorulari\ucuncuSoru\bin\Debug\net6.0\ucuncuSoru.runtimeconfig.json
+C:\Baslangic_Net_Core_Patikasi\C#101_Calismalar\algoritma_sorulari\ucuncuSoru\bin\Debug\net6.0\ucuncuSoru.dll
+C:\Baslangic_Net_Core_Patikasi\C#101_Calismalar\algoritma_sorulari\ucuncuSoru\bin\Debug\net6.0\ucuncuSoru.pdb
+C:\Baslangic_Net_Core_Patikasi\C#101_Calismalar\algoritma_sorulari\ucuncuSoru\obj\Debug\net6.0\ucuncuSoru.csproj.AssemblyReference.cache
+C:\Baslangic_Net_Core_Patikasi\C#101_Calismalar\algoritma_sorulari\ucuncuSoru\obj\Debug\net6.0\ucuncuSoru.GeneratedMSBuildEditorConfig.editorconfig
+C:\Baslangic_Net_Core_Patikasi\C#101_Calismalar\algoritma_sorulari\ucuncuSoru\obj\Debug\net6.0\ucuncuSoru.AssemblyInfoInputs.cache
+C:\Baslangic_Net_Core_Patikasi\C#101_Calismalar\algoritma_sorulari\ucuncuSoru\obj\Debug\net6.0\ucuncuSoru.AssemblyInfo.cs
+C:\Baslangic_Net_Core_Patikasi\C#101_Calismalar\algoritma_sorulari\ucuncuSoru\obj\Debug\net6.0\ucuncuSoru.csproj.CoreCompileInputs.cache
+C:\Baslangic_Net_Core_Patikasi\C#101_Calismalar\algoritma_sorulari\ucuncuSoru\obj\Debug\net6.0\ucuncuSoru.dll
+C:\Baslangic_Net_Core_Patikasi\C#101_Calismalar\algoritma_sorulari\ucuncuSoru\obj\Debug\net6.0\refint\ucuncuSoru.dll
+C:\Baslangic_Net_Core_Patikasi\C#101_Calismalar\algoritma_sorulari\ucuncuSoru\obj\Debug\net6.0\ucuncuSoru.pdb
+C:\Baslangic_Net_Core_Patikasi\C#101_Calismalar\algoritma_sorulari\ucuncuSoru\obj\Debug\net6.0\ucuncuSoru.genruntimeconfig.cache
+C:\Baslangic_Net_Core_Patikasi\C#101_Calismalar\algoritma_sorulari\ucuncuSoru\obj\Debug\net6.0\ref\ucuncuSoru.dll
