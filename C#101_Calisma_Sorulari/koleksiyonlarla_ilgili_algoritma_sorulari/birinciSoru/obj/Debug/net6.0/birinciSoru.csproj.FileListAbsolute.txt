@@ -1,0 +1,15 @@
+C:\Baslangic_Net_Core_Patikasi\C#101_Calisma_Sorulari\koleksiyonlarla_ilgili_algoritma_sorulari\birinciSoru\bin\Debug\net6.0\birinciSoru.exe
+C:\Baslangic_Net_Core_Patikasi\C#101_Calisma_Sorulari\koleksiyonlarla_ilgili_algoritma_sorulari\birinciSoru\bin\Debug\net6.0\birinciSoru.deps.json
+C:\Baslangic_Net_Core_Patikasi\C#101_Calisma_Sorulari\koleksiyonlarla_ilgili_algoritma_sorulari\birinciSoru\bin\Debug\net6.0\birinciSoru.runtimeconfig.json
+C:\Baslangic_Net_Core_Patikasi\C#101_Calisma_Sorulari\koleksiyonlarla_ilgili_algoritma_sorulari\birinciSoru\bin\Debug\net6.0\birinciSoru.dll
+C:\Baslangic_Net_Core_Patikasi\C#101_Calisma_Sorulari\koleksiyonlarla_ilgili_algoritma_sorulari\birinciSoru\bin\Debug\net6.0\birinciSoru.pdb
+C:\Baslangic_Net_Core_Patikasi\C#101_Calisma_Sorulari\koleksiyonlarla_ilgili_algoritma_sorulari\birinciSoru\obj\Debug\net6.0\birinciSoru.csproj.AssemblyReference.cache
+C:\Baslangic_Net_Core_Patikasi\C#101_Calisma_Sorulari\koleksiyonlarla_ilgili_algoritma_sorulari\birinciSoru\obj\Debug\net6.0\birinciSoru.GeneratedMSBuildEditorConfig.editorconfig
+C:\Baslangic_Net_Core_Patikasi\C#101_Calisma_Sorulari\koleksiyonlarla_ilgili_algoritma_sorulari\birinciSoru\obj\Debug\net6.0\birinciSoru.AssemblyInfoInputs.cache
+C:\Baslangic_Net_Core_Patikasi\C#101_Calisma_Sorulari\koleksiyonlarla_ilgili_algoritma_sorulari\birinciSoru\obj\Debug\net6.0\birinciSoru.AssemblyInfo.cs
+C:\Baslangic_Net_Core_Patikasi\C#101_Calisma_Sorulari\koleksiyonlarla_ilgili_algoritma_sorulari\birinciSoru\obj\Debug\net6.0\birinciSoru.csproj.CoreCompileInputs.cache
+C:\Baslangic_Net_Core_Patikasi\C#101_Calisma_Sorulari\koleksiyonlarla_ilgili_algoritma_sorulari\birinciSoru\obj\Debug\net6.0\birinciSoru.dll
+C:\Baslangic_Net_Core_Patikasi\C#101_Calisma_Sorulari\koleksiyonlarla_ilgili_algoritma_sorulari\birinciSoru\obj\Debug\net6.0\refint\birinciSoru.dll
+C:\Baslangic_Net_Core_Patikasi\C#101_Calisma_Sorulari\koleksiyonlarla_ilgili_algoritma_sorulari\birinciSoru\obj\Debug\net6.0\birinciSoru.pdb
+C:\Baslangic_Net_Core_Patikasi\C#101_Calisma_Sorulari\koleksiyonlarla_ilgili_algoritma_sorulari\birinciSoru\obj\Debug\net6.0\birinciSoru.genruntimeconfig.cache
+C:\Baslangic_Net_Core_Patikasi\C#101_Calisma_Sorulari\koleksiyonlarla_ilgili_algoritma_sorulari\birinciSoru\obj\Debug\net6.0\ref\birinciSoru.dll
