@@ -1,0 +1,15 @@
+C:\Baslangic_Net_Core_Patikasi\C#101_Konu_Pratikleri\hazir_metotlar2\bin\Debug\net6.0\hazir_metotlar2.exe
+C:\Baslangic_Net_Core_Patikasi\C#101_Konu_Pratikleri\hazir_metotlar2\bin\Debug\net6.0\hazir_metotlar2.deps.json
+C:\Baslangic_Net_Core_Patikasi\C#101_Konu_Pratikleri\hazir_metotlar2\bin\Debug\net6.0\hazir_metotlar2.runtimeconfig.json
+C:\Baslangic_Net_Core_Patikasi\C#101_Konu_Pratikleri\hazir_metotlar2\bin\Debug\net6.0\hazir_metotlar2.dll
+C:\Baslangic_Net_Core_Patikasi\C#101_Konu_Pratikleri\hazir_metotlar2\bin\Debug\net6.0\hazir_metotlar2.pdb
+C:\Baslangic_Net_Core_Patikasi\C#101_Konu_Pratikleri\hazir_metotlar2\obj\Debug\net6.0\hazir_metotlar2.csproj.AssemblyReference.cache
+C:\Baslangic_Net_Core_Patikasi\C#101_Konu_Pratikleri\hazir_metotlar2\obj\Debug\net6.0\hazir_metotlar2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Baslangic_Net_Core_Patikasi\C#101_Konu_Pratikleri\hazir_metotlar2\obj\Debug\net6.0\hazir_metotlar2.AssemblyInfoInputs.cache
+C:\Baslangic_Net_Core_Patikasi\C#101_Konu_Pratikleri\hazir_metotlar2\obj\Debug\net6.0\hazir_metotlar2.AssemblyInfo.cs
+C:\Baslangic_Net_Core_Patikasi\C#101_Konu_Pratikleri\hazir_metotlar2\obj\Debug\net6.0\hazir_metotlar2.csproj.CoreCompileInputs.cache
+C:\Baslangic_Net_Core_Patikasi\C#101_Konu_Pratikleri\hazir_metotlar2\obj\Debug\net6.0\hazir_metotlar2.dll
+C:\Baslangic_Net_Core_Patikasi\C#101_Konu_Pratikleri\hazir_metotlar2\obj\Debug\net6.0\refint\hazir_metotlar2.dll
+C:\Baslangic_Net_Core_Patikasi\C#101_Konu_Pratikleri\hazir_metotlar2\obj\Debug\net6.0\hazir_metotlar2.pdb
+C:\Baslangic_Net_Core_Patikasi\C#101_Konu_Pratikleri\hazir_metotlar2\obj\Debug\net6.0\hazir_metotlar2.genruntimeconfig.cache
+C:\Baslangic_Net_Core_Patikasi\C#101_Konu_Pratikleri\hazir_metotlar2\obj\Debug\net6.0\ref\hazir_metotlar2.dll

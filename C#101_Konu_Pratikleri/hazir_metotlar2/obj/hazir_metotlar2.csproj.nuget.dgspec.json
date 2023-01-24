@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Baslangic_Net_Core_Patikasi\\C#101_Konu_Pratikleri\\hazir_metotlar\\hazir_metotlar.csproj": {}
+    "C:\\Baslangic_Net_Core_Patikasi\\C#101_Konu_Pratikleri\\hazir_metotlar2\\hazir_metotlar2.csproj": {}
   },
   "projects": {
-    "C:\\Baslangic_Net_Core_Patikasi\\C#101_Konu_Pratikleri\\hazir_metotlar\\hazir_metotlar.csproj": {
+    "C:\\Baslangic_Net_Core_Patikasi\\C#101_Konu_Pratikleri\\hazir_metotlar2\\hazir_metotlar2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Baslangic_Net_Core_Patikasi\\C#101_Konu_Pratikleri\\hazir_metotlar\\hazir_metotlar.csproj",
-        "projectName": "hazir_metotlar",
-        "projectPath": "C:\\Baslangic_Net_Core_Patikasi\\C#101_Konu_Pratikleri\\hazir_metotlar\\hazir_metotlar.csproj",
+        "projectUniqueName": "C:\\Baslangic_Net_Core_Patikasi\\C#101_Konu_Pratikleri\\hazir_metotlar2\\hazir_metotlar2.csproj",
+        "projectName": "hazir_metotlar2",
+        "projectPath": "C:\\Baslangic_Net_Core_Patikasi\\C#101_Konu_Pratikleri\\hazir_metotlar2\\hazir_metotlar2.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Baslangic_Net_Core_Patikasi\\C#101_Konu_Pratikleri\\hazir_metotlar\\obj\\",
+        "outputPath": "C:\\Baslangic_Net_Core_Patikasi\\C#101_Konu_Pratikleri\\hazir_metotlar2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
