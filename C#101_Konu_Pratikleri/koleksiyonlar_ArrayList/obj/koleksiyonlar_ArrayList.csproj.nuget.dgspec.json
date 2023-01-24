@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Baslangic_Net_Core_Patikasi\\C#101_Konu_Pratikleri\\koleksiyonlar\\koleksiyonlar.csproj": {}
+    "C:\\Baslangic_Net_Core_Patikasi\\C#101_Konu_Pratikleri\\koleksiyonlar_ArrayList\\koleksiyonlar_ArrayList.csproj": {}
   },
   "projects": {
-    "C:\\Baslangic_Net_Core_Patikasi\\C#101_Konu_Pratikleri\\koleksiyonlar\\koleksiyonlar.csproj": {
+    "C:\\Baslangic_Net_Core_Patikasi\\C#101_Konu_Pratikleri\\koleksiyonlar_ArrayList\\koleksiyonlar_ArrayList.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Baslangic_Net_Core_Patikasi\\C#101_Konu_Pratikleri\\koleksiyonlar\\koleksiyonlar.csproj",
-        "projectName": "koleksiyonlar",
-        "projectPath": "C:\\Baslangic_Net_Core_Patikasi\\C#101_Konu_Pratikleri\\koleksiyonlar\\koleksiyonlar.csproj",
+        "projectUniqueName": "C:\\Baslangic_Net_Core_Patikasi\\C#101_Konu_Pratikleri\\koleksiyonlar_ArrayList\\koleksiyonlar_ArrayList.csproj",
+        "projectName": "koleksiyonlar_ArrayList",
+        "projectPath": "C:\\Baslangic_Net_Core_Patikasi\\C#101_Konu_Pratikleri\\koleksiyonlar_ArrayList\\koleksiyonlar_ArrayList.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Baslangic_Net_Core_Patikasi\\C#101_Konu_Pratikleri\\koleksiyonlar\\obj\\",
+        "outputPath": "C:\\Baslangic_Net_Core_Patikasi\\C#101_Konu_Pratikleri\\koleksiyonlar_ArrayList\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

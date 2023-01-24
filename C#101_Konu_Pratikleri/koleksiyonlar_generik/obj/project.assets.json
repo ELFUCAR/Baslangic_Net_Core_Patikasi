@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Baslangic_Net_Core_Patikasi\\C#101_Konu_Pratikleri\\koleksiyonlar\\koleksiyonlar.csproj",
+      "projectUniqueName": "C:\\Baslangic_Net_Core_Patikasi\\C#101_Konu_Pratikleri\\koleksiyonlar_generik\\koleksiyonlar.csproj",
       "projectName": "koleksiyonlar",
-      "projectPath": "C:\\Baslangic_Net_Core_Patikasi\\C#101_Konu_Pratikleri\\koleksiyonlar\\koleksiyonlar.csproj",
+      "projectPath": "C:\\Baslangic_Net_Core_Patikasi\\C#101_Konu_Pratikleri\\koleksiyonlar_generik\\koleksiyonlar.csproj",
       "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-      "outputPath": "C:\\Baslangic_Net_Core_Patikasi\\C#101_Konu_Pratikleri\\koleksiyonlar\\obj\\",
+      "outputPath": "C:\\Baslangic_Net_Core_Patikasi\\C#101_Konu_Pratikleri\\koleksiyonlar_generik\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

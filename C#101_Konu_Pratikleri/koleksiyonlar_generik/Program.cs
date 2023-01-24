@@ -1,4 +1,4 @@
-﻿namespace koleksiyonlar;
+﻿namespace koleksiyonlar_generik;
 class Program
 {
     static void Main(string[] args)
