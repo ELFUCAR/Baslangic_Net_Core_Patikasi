@@ -1,0 +1,15 @@
+C:\Baslangic_Net_Core_Patikasi\C#101_Calisma_Sorulari\koleksiyonlarla_ilgili_algoritma_sorulari\ikinciSoru\bin\Debug\net6.0\ikinciSoru.exe
+C:\Baslangic_Net_Core_Patikasi\C#101_Calisma_Sorulari\koleksiyonlarla_ilgili_algoritma_sorulari\ikinciSoru\bin\Debug\net6.0\ikinciSoru.deps.json
+C:\Baslangic_Net_Core_Patikasi\C#101_Calisma_Sorulari\koleksiyonlarla_ilgili_algoritma_sorulari\ikinciSoru\bin\Debug\net6.0\ikinciSoru.runtimeconfig.json
+C:\Baslangic_Net_Core_Patikasi\C#101_Calisma_Sorulari\koleksiyonlarla_ilgili_algoritma_sorulari\ikinciSoru\bin\Debug\net6.0\ikinciSoru.dll
+C:\Baslangic_Net_Core_Patikasi\C#101_Calisma_Sorulari\koleksiyonlarla_ilgili_algoritma_sorulari\ikinciSoru\bin\Debug\net6.0\ikinciSoru.pdb
+C:\Baslangic_Net_Core_Patikasi\C#101_Calisma_Sorulari\koleksiyonlarla_ilgili_algoritma_sorulari\ikinciSoru\obj\Debug\net6.0\ikinciSoru.csproj.AssemblyReference.cache
+C:\Baslangic_Net_Core_Patikasi\C#101_Calisma_Sorulari\koleksiyonlarla_ilgili_algoritma_sorulari\ikinciSoru\obj\Debug\net6.0\ikinciSoru.GeneratedMSBuildEditorConfig.editorconfig
+C:\Baslangic_Net_Core_Patikasi\C#101_Calisma_Sorulari\koleksiyonlarla_ilgili_algoritma_sorulari\ikinciSoru\obj\Debug\net6.0\ikinciSoru.AssemblyInfoInputs.cache
+C:\Baslangic_Net_Core_Patikasi\C#101_Calisma_Sorulari\koleksiyonlarla_ilgili_algoritma_sorulari\ikinciSoru\obj\Debug\net6.0\ikinciSoru.AssemblyInfo.cs
+C:\Baslangic_Net_Core_Patikasi\C#101_Calisma_Sorulari\koleksiyonlarla_ilgili_algoritma_sorulari\ikinciSoru\obj\Debug\net6.0\ikinciSoru.csproj.CoreCompileInputs.cache
+C:\Baslangic_Net_Core_Patikasi\C#101_Calisma_Sorulari\koleksiyonlarla_ilgili_algoritma_sorulari\ikinciSoru\obj\Debug\net6.0\ikinciSoru.dll
+C:\Baslangic_Net_Core_Patikasi\C#101_Calisma_Sorulari\koleksiyonlarla_ilgili_algoritma_sorulari\ikinciSoru\obj\Debug\net6.0\refint\ikinciSoru.dll
+C:\Baslangic_Net_Core_Patikasi\C#101_Calisma_Sorulari\koleksiyonlarla_ilgili_algoritma_sorulari\ikinciSoru\obj\Debug\net6.0\ikinciSoru.pdb
+C:\Baslangic_Net_Core_Patikasi\C#101_Calisma_Sorulari\koleksiyonlarla_ilgili_algoritma_sorulari\ikinciSoru\obj\Debug\net6.0\ikinciSoru.genruntimeconfig.cache
+C:\Baslangic_Net_Core_Patikasi\C#101_Calisma_Sorulari\koleksiyonlarla_ilgili_algoritma_sorulari\ikinciSoru\obj\Debug\net6.0\ref\ikinciSoru.dll
