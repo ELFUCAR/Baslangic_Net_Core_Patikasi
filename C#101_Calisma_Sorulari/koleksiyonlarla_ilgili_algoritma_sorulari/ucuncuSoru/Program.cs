@@ -14,9 +14,8 @@ class Program
                 for(int i=0; i<sentence.Length; i++)
                      if(c==arr[i])
                         sentChar[i]=c;
-            }
-
-            
-        Console.WriteLine('Hello, World!');
+                        Console.WriteLine(sentChar[i]);
+            }    
+        
     }
 }
