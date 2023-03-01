@@ -1,0 +1,5 @@
+C:\Baslangic_Net_Core_Patikasi\C#101_Calisma_Sorulari\koleksiyonlarla_ilgili_algoritma_sorulari\ucuncuSoru\obj\Debug\net6.0\ucuncuSoru.csproj.AssemblyReference.cache
+C:\Baslangic_Net_Core_Patikasi\C#101_Calisma_Sorulari\koleksiyonlarla_ilgili_algoritma_sorulari\ucuncuSoru\obj\Debug\net6.0\ucuncuSoru.GeneratedMSBuildEditorConfig.editorconfig
+C:\Baslangic_Net_Core_Patikasi\C#101_Calisma_Sorulari\koleksiyonlarla_ilgili_algoritma_sorulari\ucuncuSoru\obj\Debug\net6.0\ucuncuSoru.AssemblyInfoInputs.cache
+C:\Baslangic_Net_Core_Patikasi\C#101_Calisma_Sorulari\koleksiyonlarla_ilgili_algoritma_sorulari\ucuncuSoru\obj\Debug\net6.0\ucuncuSoru.AssemblyInfo.cs
+C:\Baslangic_Net_Core_Patikasi\C#101_Calisma_Sorulari\koleksiyonlarla_ilgili_algoritma_sorulari\ucuncuSoru\obj\Debug\net6.0\ucuncuSoru.csproj.CoreCompileInputs.cache
